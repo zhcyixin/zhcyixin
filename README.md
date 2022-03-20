@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhcyixin
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Spring Boot Java8 Spring Cloud.
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me ...
 
